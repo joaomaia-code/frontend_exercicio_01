@@ -1,0 +1,102 @@
+body {
+  margin: auto;
+  background-color: #dee5ff;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.cartão {
+  margin: auto;
+  background-color: #ffffff;
+  width: 325px;
+  min-height: 565px;
+  border-radius: 20px;
+  font-family: "Red Hat Display", sans-serif;
+  margin-top: 70px;
+}
+
+.cartão img {
+  width: 325px;
+  border-radius: 20px 20px 0 0;
+}
+
+main h1 {
+  font-size: 24px;
+  color: hsl(223, 47%, 23%);
+  text-align: center;
+}
+
+main p {
+  font-size: 16px;
+  color: hsl(224, 23%, 55%);
+  text-align: center;
+  max-width: 250px;
+  margin: auto;
+}
+
+.subscrição {
+  max-width: 275px;
+  min-height: 80px;
+  margin: auto;
+  border-radius: 15px;
+  background-color: #f8f9fe;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  justify-content: space-between;
+}
+
+.icon_preco {
+  display: flex;
+  align-items: center;
+  margin: auto 0;
+}
+
+.img_subscrição {
+  max-height: 50px;
+  max-width: 50px;
+  margin-left: 15px;
+}
+
+.preço {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin-left: 20px;
+}
+
+.preço h2 {
+  font-size: 16px;
+  margin: 0;
+  color: hsl(223, 47%, 23%);
+}
+
+.preço p {
+  font-size: 14px;
+  margin: 0;
+  color: hsl(224, 23%, 55%);
+}
+
+.subscrição a {
+  color: hsl(245, 75%, 52%);
+  font-size: 14px;
+  font-weight: bold;
+  margin-right: 15px;
+}
+
+.subscrição a:active {
+  color: hsl(224, 23%, 55%);
+}
+
+.cartão h2 {
+}
+
+.cartão h3 {
+}
