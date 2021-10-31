@@ -19,7 +19,6 @@ body {
   margin: auto;
   background-color: #ffffff;
   max-width: 325px;
-  min-height: 565px;
   border-radius: 20px;
   margin-top: 70px;
   box-shadow: 0 5px 25px 15px hsla(240, 51%, 73%, 0.253);
@@ -47,7 +46,6 @@ main p {
 
 .subscricao {
   max-width: 275px;
-  min-height: 80px;
   margin: auto;
   border-radius: 10px;
   background-color: #f8f9fe;
@@ -64,7 +62,6 @@ main p {
 }
 
 .img_subscricao {
-  max-height: 50px;
   max-width: 50px;
   margin-left: 15px;
 }
@@ -108,7 +105,7 @@ main p {
   font-weight: 700;
   font-size: 16px;
   min-width: 280px;
-  min-height: 52px;
+  min-height: 3em;
   margin: auto;
   cursor: pointer;
   border: none;
