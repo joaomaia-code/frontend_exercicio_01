@@ -92,10 +92,6 @@ main p {
   margin-right: 15px;
 }
 
-.subscricao a:hover {
-  color: hsl(224, 23%, 55%);
-}
-
 .subscricao a:active {
   color: hsl(224, 23%, 55%);
 }
