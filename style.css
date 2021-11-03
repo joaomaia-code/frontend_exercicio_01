@@ -96,6 +96,10 @@ main p {
   color: hsl(224, 23%, 55%);
 }
 
+.subscricao a:hover {
+  color: hsl(224, 23%, 55%);
+}
+
 .button {
   display: block;
   font-weight: 700;
